@@ -8,28 +8,23 @@ The purpose of this analysis is to compare and contrast the nature of rides take
 ## Results
 There were vast differences in the rides taken from the RideShare app based on type of city.  The vast majority of the rides were taken in Urban locales; the vast majority of all Drivers were located in Urban locales; the vast majority of all fares collected were collected in Urban localed.  See these three Pie Charts, all showing the large Urban percentage of totals...
 
-![Total Drivers]
-(Resources/Total_Drivers_per_City_Type.png)
+![Total Drivers](Resources/Total_Drivers_per_City_Type.png)
 
-![Total Fares]
-(Resources/Total_Fares_per_City_Type.png)
+![Total Fares](Resources/Total_Fares_per_City_Type.png)
 
-![Total Rides]
-(Resources/Total_Rides_per_City_Type.png)
+![Total Rides](Resources/Total_Rides_per_City_Type.png)
 
 
 However, the Fares were a different story.  The average fares were higher for Rural locales, both when considered versus total number of rides, and versus total number of drivers -->
 
-![Ave_Fares]
-(Resources/Ave_Fares_Two_Ways_per_City_Type.png)
+![Ave_Fares](Resources/Ave_Fares_Two_Ways_per_City_Type.png)
 
 
 
 ## Summary
 There was one datapoint that stuck out very strongly in our analysis.  The first week of April, 2019, saw a huge drop in Fares:
 
-![Weekly]
-(Resources/UrbanRuralSuburban_Weekly_Rides.png)
+![Weekly](Resources/UrbanRuralSuburban_Weekly_Rides.png)
 
 
 
